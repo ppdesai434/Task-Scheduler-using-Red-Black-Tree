@@ -1,0 +1,1 @@
+Red-black tree is a kind of balanced tree (others are AVL-trees and 2-3-trees) and can be used everywhere where trees are used, usually for the fast element searches. E.g., it is used in some implementations of C++ STL (Standard Template Library) for sets and maps.
